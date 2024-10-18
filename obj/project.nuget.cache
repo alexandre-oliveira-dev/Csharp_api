@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/PBwsuKd2S6bz88GTesmKQiKOlXFPGktwdGbDkxKsn1KEDcfXmZFyTXxwhcjJbiKlhW0YQ/N3HLU8NOr7pvRQ==",
+  "dgSpecHash": "AU871FOw6qyxBqo7slQdNvnrIN3XjDpeSGZA4yX/9oR3VdopGziUYj7mB2zLTnWYR4UWRldziBdmIHF8/80ymA==",
   "success": true,
-  "projectFilePath": "/home/alexandre/my_projects/firstapi/firstapi.csproj",
+  "projectFilePath": "/home/alexandre/my_projects/Csharp_api/firstapi.csproj",
   "expectedPackageFiles": [
     "/home/alexandre/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
     "/home/alexandre/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

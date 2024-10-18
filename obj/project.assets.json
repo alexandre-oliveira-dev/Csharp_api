@@ -8638,11 +8638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alexandre/my_projects/firstapi/firstapi.csproj",
+      "projectUniqueName": "/home/alexandre/my_projects/Csharp_api/firstapi.csproj",
       "projectName": "firstapi",
-      "projectPath": "/home/alexandre/my_projects/firstapi/firstapi.csproj",
+      "projectPath": "/home/alexandre/my_projects/Csharp_api/firstapi.csproj",
       "packagesPath": "/home/alexandre/.nuget/packages/",
-      "outputPath": "/home/alexandre/my_projects/firstapi/obj/",
+      "outputPath": "/home/alexandre/my_projects/Csharp_api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alexandre/.nuget/NuGet/NuGet.Config"
